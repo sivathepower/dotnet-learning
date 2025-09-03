@@ -1,0 +1,14 @@
+C:\dotnet learning\MyconsoleApp\day 4\GraphicSolution\GraphicEditor\obj\Debug\net8.0\GraphicEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet learning\MyconsoleApp\day 4\GraphicSolution\GraphicEditor\obj\Debug\net8.0\GraphicEditor.AssemblyInfoInputs.cache
+C:\dotnet learning\MyconsoleApp\day 4\GraphicSolution\GraphicEditor\obj\Debug\net8.0\GraphicEditor.AssemblyInfo.cs
+C:\dotnet learning\MyconsoleApp\day 4\GraphicSolution\GraphicEditor\obj\Debug\net8.0\GraphicEditor.csproj.CoreCompileInputs.cache
+C:\dotnet learning\MyconsoleApp\day 4\GraphicSolution\GraphicEditor\bin\Debug\net8.0\GraphicEditor.exe
+C:\dotnet learning\MyconsoleApp\day 4\GraphicSolution\GraphicEditor\bin\Debug\net8.0\GraphicEditor.deps.json
+C:\dotnet learning\MyconsoleApp\day 4\GraphicSolution\GraphicEditor\bin\Debug\net8.0\GraphicEditor.runtimeconfig.json
+C:\dotnet learning\MyconsoleApp\day 4\GraphicSolution\GraphicEditor\bin\Debug\net8.0\GraphicEditor.dll
+C:\dotnet learning\MyconsoleApp\day 4\GraphicSolution\GraphicEditor\bin\Debug\net8.0\GraphicEditor.pdb
+C:\dotnet learning\MyconsoleApp\day 4\GraphicSolution\GraphicEditor\obj\Debug\net8.0\GraphicEditor.dll
+C:\dotnet learning\MyconsoleApp\day 4\GraphicSolution\GraphicEditor\obj\Debug\net8.0\refint\GraphicEditor.dll
+C:\dotnet learning\MyconsoleApp\day 4\GraphicSolution\GraphicEditor\obj\Debug\net8.0\GraphicEditor.pdb
+C:\dotnet learning\MyconsoleApp\day 4\GraphicSolution\GraphicEditor\obj\Debug\net8.0\GraphicEditor.genruntimeconfig.cache
+C:\dotnet learning\MyconsoleApp\day 4\GraphicSolution\GraphicEditor\obj\Debug\net8.0\ref\GraphicEditor.dll

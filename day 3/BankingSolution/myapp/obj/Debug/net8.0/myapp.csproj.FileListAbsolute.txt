@@ -1,0 +1,14 @@
+C:\dotnet learning\MyconsoleApp\day 3\BankingSolution\myapp\bin\Debug\net8.0\myapp.exe
+C:\dotnet learning\MyconsoleApp\day 3\BankingSolution\myapp\bin\Debug\net8.0\myapp.deps.json
+C:\dotnet learning\MyconsoleApp\day 3\BankingSolution\myapp\bin\Debug\net8.0\myapp.runtimeconfig.json
+C:\dotnet learning\MyconsoleApp\day 3\BankingSolution\myapp\bin\Debug\net8.0\myapp.dll
+C:\dotnet learning\MyconsoleApp\day 3\BankingSolution\myapp\bin\Debug\net8.0\myapp.pdb
+C:\dotnet learning\MyconsoleApp\day 3\BankingSolution\myapp\obj\Debug\net8.0\myapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet learning\MyconsoleApp\day 3\BankingSolution\myapp\obj\Debug\net8.0\myapp.AssemblyInfoInputs.cache
+C:\dotnet learning\MyconsoleApp\day 3\BankingSolution\myapp\obj\Debug\net8.0\myapp.AssemblyInfo.cs
+C:\dotnet learning\MyconsoleApp\day 3\BankingSolution\myapp\obj\Debug\net8.0\myapp.csproj.CoreCompileInputs.cache
+C:\dotnet learning\MyconsoleApp\day 3\BankingSolution\myapp\obj\Debug\net8.0\myapp.dll
+C:\dotnet learning\MyconsoleApp\day 3\BankingSolution\myapp\obj\Debug\net8.0\refint\myapp.dll
+C:\dotnet learning\MyconsoleApp\day 3\BankingSolution\myapp\obj\Debug\net8.0\myapp.pdb
+C:\dotnet learning\MyconsoleApp\day 3\BankingSolution\myapp\obj\Debug\net8.0\myapp.genruntimeconfig.cache
+C:\dotnet learning\MyconsoleApp\day 3\BankingSolution\myapp\obj\Debug\net8.0\ref\myapp.dll
