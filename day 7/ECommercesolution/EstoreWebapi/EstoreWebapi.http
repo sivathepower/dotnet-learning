@@ -1,6 +1,0 @@
-@EstoreWebapi_HostAddress = http://localhost:5201
-
-GET {{EstoreWebapi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

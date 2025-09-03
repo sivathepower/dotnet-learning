@@ -28,7 +28,7 @@ public class Line : Shape, IDisposable
     public void Dispose()
     {
         // Clean up any resources here
-        Console.WriteLine("Disposing Line object");
+        // Console.WriteLine("Disposing Line object");
         GC.SuppressFinalize(this);
     }
 }                                               
