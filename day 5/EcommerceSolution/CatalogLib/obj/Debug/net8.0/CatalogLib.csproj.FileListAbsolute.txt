@@ -1,0 +1,12 @@
+C:\dotnet learning\MyconsoleApp\day 5\EcommerceSolution\CatalogLib\bin\Debug\net8.0\CatalogLib.deps.json
+C:\dotnet learning\MyconsoleApp\day 5\EcommerceSolution\CatalogLib\bin\Debug\net8.0\CatalogLib.dll
+C:\dotnet learning\MyconsoleApp\day 5\EcommerceSolution\CatalogLib\bin\Debug\net8.0\CatalogLib.pdb
+C:\dotnet learning\MyconsoleApp\day 5\EcommerceSolution\CatalogLib\obj\Debug\net8.0\CatalogLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet learning\MyconsoleApp\day 5\EcommerceSolution\CatalogLib\obj\Debug\net8.0\CatalogLib.AssemblyInfoInputs.cache
+C:\dotnet learning\MyconsoleApp\day 5\EcommerceSolution\CatalogLib\obj\Debug\net8.0\CatalogLib.AssemblyInfo.cs
+C:\dotnet learning\MyconsoleApp\day 5\EcommerceSolution\CatalogLib\obj\Debug\net8.0\CatalogLib.csproj.CoreCompileInputs.cache
+C:\dotnet learning\MyconsoleApp\day 5\EcommerceSolution\CatalogLib\obj\Debug\net8.0\CatalogLib.sourcelink.json
+C:\dotnet learning\MyconsoleApp\day 5\EcommerceSolution\CatalogLib\obj\Debug\net8.0\CatalogLib.dll
+C:\dotnet learning\MyconsoleApp\day 5\EcommerceSolution\CatalogLib\obj\Debug\net8.0\refint\CatalogLib.dll
+C:\dotnet learning\MyconsoleApp\day 5\EcommerceSolution\CatalogLib\obj\Debug\net8.0\CatalogLib.pdb
+C:\dotnet learning\MyconsoleApp\day 5\EcommerceSolution\CatalogLib\obj\Debug\net8.0\ref\CatalogLib.dll
