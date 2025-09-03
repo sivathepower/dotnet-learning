@@ -12,3 +12,4 @@ C:\dotnet learning\MyconsoleApp\day 4\GraphicSolution\GraphicEditor\obj\Debug\ne
 C:\dotnet learning\MyconsoleApp\day 4\GraphicSolution\GraphicEditor\obj\Debug\net8.0\GraphicEditor.pdb
 C:\dotnet learning\MyconsoleApp\day 4\GraphicSolution\GraphicEditor\obj\Debug\net8.0\GraphicEditor.genruntimeconfig.cache
 C:\dotnet learning\MyconsoleApp\day 4\GraphicSolution\GraphicEditor\obj\Debug\net8.0\ref\GraphicEditor.dll
+C:\dotnet learning\MyconsoleApp\day 4\GraphicSolution\GraphicEditor\obj\Debug\net8.0\GraphicEditor.sourcelink.json
