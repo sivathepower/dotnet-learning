@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EstoreWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68309d4085ad5081613220b356f2821aeb26531a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acb54ff81c0a0debb24292a7d1a12ec941af6cc8")]
 [assembly: System.Reflection.AssemblyProductAttribute("EstoreWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EstoreWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
