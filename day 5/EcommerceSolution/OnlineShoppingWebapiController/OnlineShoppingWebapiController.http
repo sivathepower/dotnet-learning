@@ -1,0 +1,6 @@
+@OnlineShoppingWebapiController_HostAddress = http://localhost:5160
+
+GET {{OnlineShoppingWebapiController_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
