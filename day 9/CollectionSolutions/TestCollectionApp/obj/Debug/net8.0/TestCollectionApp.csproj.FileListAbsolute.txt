@@ -1,0 +1,15 @@
+C:\dotnet learning\MyconsoleApp\day 9\CollectionSolutions\TestCollectionApp\bin\Debug\net8.0\TestCollectionApp.exe
+C:\dotnet learning\MyconsoleApp\day 9\CollectionSolutions\TestCollectionApp\bin\Debug\net8.0\TestCollectionApp.deps.json
+C:\dotnet learning\MyconsoleApp\day 9\CollectionSolutions\TestCollectionApp\bin\Debug\net8.0\TestCollectionApp.runtimeconfig.json
+C:\dotnet learning\MyconsoleApp\day 9\CollectionSolutions\TestCollectionApp\bin\Debug\net8.0\TestCollectionApp.dll
+C:\dotnet learning\MyconsoleApp\day 9\CollectionSolutions\TestCollectionApp\bin\Debug\net8.0\TestCollectionApp.pdb
+C:\dotnet learning\MyconsoleApp\day 9\CollectionSolutions\TestCollectionApp\obj\Debug\net8.0\TestCollectionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet learning\MyconsoleApp\day 9\CollectionSolutions\TestCollectionApp\obj\Debug\net8.0\TestCollectionApp.AssemblyInfoInputs.cache
+C:\dotnet learning\MyconsoleApp\day 9\CollectionSolutions\TestCollectionApp\obj\Debug\net8.0\TestCollectionApp.AssemblyInfo.cs
+C:\dotnet learning\MyconsoleApp\day 9\CollectionSolutions\TestCollectionApp\obj\Debug\net8.0\TestCollectionApp.csproj.CoreCompileInputs.cache
+C:\dotnet learning\MyconsoleApp\day 9\CollectionSolutions\TestCollectionApp\obj\Debug\net8.0\TestCollectionApp.sourcelink.json
+C:\dotnet learning\MyconsoleApp\day 9\CollectionSolutions\TestCollectionApp\obj\Debug\net8.0\TestCollectionApp.dll
+C:\dotnet learning\MyconsoleApp\day 9\CollectionSolutions\TestCollectionApp\obj\Debug\net8.0\refint\TestCollectionApp.dll
+C:\dotnet learning\MyconsoleApp\day 9\CollectionSolutions\TestCollectionApp\obj\Debug\net8.0\TestCollectionApp.pdb
+C:\dotnet learning\MyconsoleApp\day 9\CollectionSolutions\TestCollectionApp\obj\Debug\net8.0\TestCollectionApp.genruntimeconfig.cache
+C:\dotnet learning\MyconsoleApp\day 9\CollectionSolutions\TestCollectionApp\obj\Debug\net8.0\ref\TestCollectionApp.dll
