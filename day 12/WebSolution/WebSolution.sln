@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portal", "Portal\Portal.csproj", "{6CED8395-C183-4A04-9F03-5699EDA16F67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaaSApp", "SaaSApp\SaaSApp.csproj", "{7A3E27DD-F822-41D3-94CF-40962F48210C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CED8395-C183-4A04-9F03-5699EDA16F67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CED8395-C183-4A04-9F03-5699EDA16F67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CED8395-C183-4A04-9F03-5699EDA16F67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CED8395-C183-4A04-9F03-5699EDA16F67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A3E27DD-F822-41D3-94CF-40962F48210C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A3E27DD-F822-41D3-94CF-40962F48210C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A3E27DD-F822-41D3-94CF-40962F48210C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A3E27DD-F822-41D3-94CF-40962F48210C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
