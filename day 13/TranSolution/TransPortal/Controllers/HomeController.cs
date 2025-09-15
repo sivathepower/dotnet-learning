@@ -3,7 +3,8 @@ using Microsoft.AspNetCore.Mvc;
 using TransPortal.Models;
 
 namespace TransPortal.Controllers;
-
+[ApiController]
+[Route("api/[controller]")]
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
@@ -12,10 +13,10 @@ public class HomeController : Controller
     {
         _logger = logger;
     }
-
+    [HttpGet]
     public IActionResult Index()
     {
-        return View();
+        return Ok();
     }
 
     public IActionResult Privacy()

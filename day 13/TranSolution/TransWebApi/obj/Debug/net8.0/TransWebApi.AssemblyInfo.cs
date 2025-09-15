@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TransWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1a6a7c0d3276a8c6ed514c275c2827eb852c884")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b93277356f2e0be05922d9fedbd77269f2d5a9e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("TransWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TransWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

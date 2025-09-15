@@ -12,9 +12,10 @@ public static class JsonCatalogManager
 
     private static string getFilePath()
     {
-        string path = Directory.GetCurrentDirectory();
-        string filePath = Path.Combine(path, "Data", "Products.json");
-        Console.WriteLine(filePath);
+        // string path = Directory.GetCurrentDirectory();
+        // string filePath = Path.Combine(path, "Data", "Products.json");
+        // Console.WriteLine(filePath);
+        string filePath = @"C:\dotnet learning\MyconsoleApp\day 13\TranSolution\Data\Products.json";
         return filePath;
     }
 

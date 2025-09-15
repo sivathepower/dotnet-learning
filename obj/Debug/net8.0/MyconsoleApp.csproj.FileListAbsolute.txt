@@ -12,3 +12,4 @@ C:\dotnet learning\MyconsoleApp\obj\Debug\net8.0\refint\MyconsoleApp.dll
 C:\dotnet learning\MyconsoleApp\obj\Debug\net8.0\MyconsoleApp.pdb
 C:\dotnet learning\MyconsoleApp\obj\Debug\net8.0\MyconsoleApp.genruntimeconfig.cache
 C:\dotnet learning\MyconsoleApp\obj\Debug\net8.0\ref\MyconsoleApp.dll
+C:\dotnet learning\MyconsoleApp\obj\Debug\net8.0\MyconsoleApp.sourcelink.json

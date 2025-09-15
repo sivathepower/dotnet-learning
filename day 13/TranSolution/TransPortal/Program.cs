@@ -1,8 +1,11 @@
+using CatalogRepository;
+using CatalogServices;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
+builder.Services.AddScoped<IProductService ,ProductService>();
+builder.Services.AddScoped<IProductRepository ,ProductRepository>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -19,6 +22,10 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+
+// app.MapControllerRoute(
+//     name: "Products",
+//     pattern: "{controller=Product}/{action=Index}");
 
 app.MapControllerRoute(
     name: "default",
