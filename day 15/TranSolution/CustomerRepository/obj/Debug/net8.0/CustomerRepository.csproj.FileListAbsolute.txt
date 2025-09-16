@@ -1,0 +1,16 @@
+C:\dotnet learning\MyconsoleApp\day 15\TranSolution\CustomerRepository\obj\Debug\net8.0\CustomerRepository.csproj.AssemblyReference.cache
+C:\dotnet learning\MyconsoleApp\day 15\TranSolution\CustomerRepository\obj\Debug\net8.0\CustomerRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet learning\MyconsoleApp\day 15\TranSolution\CustomerRepository\obj\Debug\net8.0\CustomerRepository.AssemblyInfoInputs.cache
+C:\dotnet learning\MyconsoleApp\day 15\TranSolution\CustomerRepository\obj\Debug\net8.0\CustomerRepository.AssemblyInfo.cs
+C:\dotnet learning\MyconsoleApp\day 15\TranSolution\CustomerRepository\obj\Debug\net8.0\CustomerRepository.csproj.CoreCompileInputs.cache
+C:\dotnet learning\MyconsoleApp\day 15\TranSolution\CustomerRepository\obj\Debug\net8.0\CustomerRepository.sourcelink.json
+C:\dotnet learning\MyconsoleApp\day 15\TranSolution\CustomerRepository\bin\Debug\net8.0\CustomerRepository.deps.json
+C:\dotnet learning\MyconsoleApp\day 15\TranSolution\CustomerRepository\bin\Debug\net8.0\CustomerRepository.dll
+C:\dotnet learning\MyconsoleApp\day 15\TranSolution\CustomerRepository\bin\Debug\net8.0\CustomerRepository.pdb
+C:\dotnet learning\MyconsoleApp\day 15\TranSolution\CustomerRepository\bin\Debug\net8.0\CustomerEntities.dll
+C:\dotnet learning\MyconsoleApp\day 15\TranSolution\CustomerRepository\bin\Debug\net8.0\CustomerEntities.pdb
+C:\dotnet learning\MyconsoleApp\day 15\TranSolution\CustomerRepository\obj\Debug\net8.0\Customer.260E8317.Up2Date
+C:\dotnet learning\MyconsoleApp\day 15\TranSolution\CustomerRepository\obj\Debug\net8.0\CustomerRepository.dll
+C:\dotnet learning\MyconsoleApp\day 15\TranSolution\CustomerRepository\obj\Debug\net8.0\refint\CustomerRepository.dll
+C:\dotnet learning\MyconsoleApp\day 15\TranSolution\CustomerRepository\obj\Debug\net8.0\CustomerRepository.pdb
+C:\dotnet learning\MyconsoleApp\day 15\TranSolution\CustomerRepository\obj\Debug\net8.0\ref\CustomerRepository.dll

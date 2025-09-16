@@ -1,0 +1,27 @@
+@{
+    ViewData["Title"] = "Customer Index";
+}
+<h2>Customer List</h2>
+<p>Below is the list of registered customers:</p>
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>FirstName</th>
+            <th>LastName</th>
+            <th>Email</th>
+            <th>Password</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var customer in Model)
+        {
+            <tr>
+                <td>@customer.Id</td>
+                <td>@customer.FirstName</td>
+                <td>@customer.LastName</td>
+                <td>@customer.Email</td><br>
+                <td>@customer.Password</td>
+            </tr>
+        }
+    </tbody>

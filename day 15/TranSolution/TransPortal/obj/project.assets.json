@@ -1,0 +1,188 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "CatalogEntities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CatalogEntities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CatalogEntities.dll": {}
+        }
+      },
+      "CatalogRepository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CatalogEntities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CatalogRepository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CatalogRepository.dll": {}
+        }
+      },
+      "CatalogServices/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CatalogRepository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CatalogServices.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CatalogServices.dll": {}
+        }
+      },
+      "CustomerEntities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CustomerEntities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CustomerEntities.dll": {}
+        }
+      },
+      "CustomerRepository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CustomerEntities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CustomerRepository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CustomerRepository.dll": {}
+        }
+      },
+      "CustomerServices/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CustomerRepository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CustomerServices.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CustomerServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CatalogEntities/1.0.0": {
+      "type": "project",
+      "path": "../CatalogEntities/CatalogEntities.csproj",
+      "msbuildProject": "../CatalogEntities/CatalogEntities.csproj"
+    },
+    "CatalogRepository/1.0.0": {
+      "type": "project",
+      "path": "../CatalogRepository/CatalogRepository.csproj",
+      "msbuildProject": "../CatalogRepository/CatalogRepository.csproj"
+    },
+    "CatalogServices/1.0.0": {
+      "type": "project",
+      "path": "../CatalogServices/CatalogServices.csproj",
+      "msbuildProject": "../CatalogServices/CatalogServices.csproj"
+    },
+    "CustomerEntities/1.0.0": {
+      "type": "project",
+      "path": "../CustomerEntities/CustomerEntities.csproj",
+      "msbuildProject": "../CustomerEntities/CustomerEntities.csproj"
+    },
+    "CustomerRepository/1.0.0": {
+      "type": "project",
+      "path": "../CustomerRepository/CustomerRepository.csproj",
+      "msbuildProject": "../CustomerRepository/CustomerRepository.csproj"
+    },
+    "CustomerServices/1.0.0": {
+      "type": "project",
+      "path": "../CustomerServices/CustomerServices.csproj",
+      "msbuildProject": "../CustomerServices/CustomerServices.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "CatalogServices >= 1.0.0",
+      "CustomerServices >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\sivasagar.g\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\dotnet learning\\MyconsoleApp\\day 15\\TranSolution\\TransPortal\\TransPortal.csproj",
+      "projectName": "TransPortal",
+      "projectPath": "C:\\dotnet learning\\MyconsoleApp\\day 15\\TranSolution\\TransPortal\\TransPortal.csproj",
+      "packagesPath": "C:\\Users\\sivasagar.g\\.nuget\\packages\\",
+      "outputPath": "C:\\dotnet learning\\MyconsoleApp\\day 15\\TranSolution\\TransPortal\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\sivasagar.g\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\dotnet learning\\MyconsoleApp\\day 15\\TranSolution\\CatalogServices\\CatalogServices.csproj": {
+              "projectPath": "C:\\dotnet learning\\MyconsoleApp\\day 15\\TranSolution\\CatalogServices\\CatalogServices.csproj"
+            },
+            "C:\\dotnet learning\\MyconsoleApp\\day 15\\TranSolution\\CustomerServices\\CustomerServices.csproj": {
+              "projectPath": "C:\\dotnet learning\\MyconsoleApp\\day 15\\TranSolution\\CustomerServices\\CustomerServices.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

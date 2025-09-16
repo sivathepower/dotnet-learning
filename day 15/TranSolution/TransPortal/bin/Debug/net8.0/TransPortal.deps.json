@@ -1,0 +1,117 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TransPortal/1.0.0": {
+        "dependencies": {
+          "CatalogServices": "1.0.0",
+          "CustomerServices": "1.0.0"
+        },
+        "runtime": {
+          "TransPortal.dll": {}
+        }
+      },
+      "CatalogEntities/1.0.0": {
+        "runtime": {
+          "CatalogEntities.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CatalogRepository/1.0.0": {
+        "dependencies": {
+          "CatalogEntities": "1.0.0"
+        },
+        "runtime": {
+          "CatalogRepository.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CatalogServices/1.0.0": {
+        "dependencies": {
+          "CatalogRepository": "1.0.0"
+        },
+        "runtime": {
+          "CatalogServices.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CustomerEntities/1.0.0": {
+        "runtime": {
+          "CustomerEntities.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CustomerRepository/1.0.0": {
+        "dependencies": {
+          "CustomerEntities": "1.0.0"
+        },
+        "runtime": {
+          "CustomerRepository.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CustomerServices/1.0.0": {
+        "dependencies": {
+          "CustomerRepository": "1.0.0"
+        },
+        "runtime": {
+          "CustomerServices.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TransPortal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CatalogEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CatalogRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CatalogServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomerEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomerRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomerServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

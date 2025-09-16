@@ -1,0 +1,12 @@
+C:\dotnet learning\MyconsoleApp\day 15\TranSolution\CustomerEntities\bin\Debug\net8.0\CustomerEntities.deps.json
+C:\dotnet learning\MyconsoleApp\day 15\TranSolution\CustomerEntities\bin\Debug\net8.0\CustomerEntities.dll
+C:\dotnet learning\MyconsoleApp\day 15\TranSolution\CustomerEntities\bin\Debug\net8.0\CustomerEntities.pdb
+C:\dotnet learning\MyconsoleApp\day 15\TranSolution\CustomerEntities\obj\Debug\net8.0\CustomerEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet learning\MyconsoleApp\day 15\TranSolution\CustomerEntities\obj\Debug\net8.0\CustomerEntities.AssemblyInfoInputs.cache
+C:\dotnet learning\MyconsoleApp\day 15\TranSolution\CustomerEntities\obj\Debug\net8.0\CustomerEntities.AssemblyInfo.cs
+C:\dotnet learning\MyconsoleApp\day 15\TranSolution\CustomerEntities\obj\Debug\net8.0\CustomerEntities.csproj.CoreCompileInputs.cache
+C:\dotnet learning\MyconsoleApp\day 15\TranSolution\CustomerEntities\obj\Debug\net8.0\CustomerEntities.sourcelink.json
+C:\dotnet learning\MyconsoleApp\day 15\TranSolution\CustomerEntities\obj\Debug\net8.0\CustomerEntities.dll
+C:\dotnet learning\MyconsoleApp\day 15\TranSolution\CustomerEntities\obj\Debug\net8.0\refint\CustomerEntities.dll
+C:\dotnet learning\MyconsoleApp\day 15\TranSolution\CustomerEntities\obj\Debug\net8.0\CustomerEntities.pdb
+C:\dotnet learning\MyconsoleApp\day 15\TranSolution\CustomerEntities\obj\Debug\net8.0\ref\CustomerEntities.dll

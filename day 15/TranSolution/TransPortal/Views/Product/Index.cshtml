@@ -1,0 +1,24 @@
+@model IEnumerable<CatalogEntities.Product>
+<table>
+	<thead>
+		<tr>
+			<th>Id</th>
+			<th>Title</th>
+			<th>Description</th>
+			<th>Price</th>
+			<th>ImageUrl</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var product in Model)
+		{
+			<tr>
+				<td>@product.Id</td>
+				<td>@product.Title</td>
+				<td>@product.Description</td>
+				<td>@product.Price</td><br>
+				<td>@product.ImageUrl</td>
+			</tr>
+		}
+	</tbody>
+</table>
